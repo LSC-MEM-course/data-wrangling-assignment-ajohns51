@@ -4,6 +4,7 @@ author: "Scott Jackson"
 date: "October 21, 2019"
 output: pdf_document
 ---
+# Some amazing change
 
 # Preliminaries
 
